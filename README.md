@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+# Listify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Listify is a simple React application for creating and managing lists of movies and songs. It allows you to keep track of your favorite movies and songs separately, providing features to add, delete, and reset your lists.
+
+## Features
+
+- Create and manage a list of favorite movies.
+- Create and manage a list of favorite songs.
+- Add new movies and songs to your lists.
+- Delete individual movies and songs from your lists.
+- Reset both movie and song lists simultaneously.
+
+## Technologies Used
+
+1. HTML
+
+2. CSS
+
+3. JavaScript
+
+4. React
+
+5. Bulma: A lightweight CSS framework for styling the application.
+
+6. Redux Toolkit: A toolset for efficient Redux development.
+
+7. React-Redux: Official React bindings for Redux.
+
+8. Faker: A library for generating fake data to populate the lists.
 
 ## Available Scripts
 
